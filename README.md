@@ -8,7 +8,7 @@
 - Auth
 - Chat Backup
 ## App Structure
-!(./assets/structure.png)
+![App Structure](./assets/structure.png)
 ## Technologies
 ### UI
 - [React](https://reactjs.org/)
@@ -24,6 +24,6 @@
 ### Database
 - [MongoDB](https://www.mongodb.com/)
 ## App UI Structure
-!(./assets/ui_structure.png)
+![UI structure](./assets/ui_structure.png)
 ### React UI Structure
-!(./assets/ui_structure_react.png)
+![React UI structure](./assets/ui_structure_react.png)
