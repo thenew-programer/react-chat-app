@@ -1,0 +1,5 @@
+.WorkArea {
+  flex: .7;
+  text-align: center;
+  border-left: 1px solid var(--gray);
+}
